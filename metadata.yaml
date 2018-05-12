@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1761
     wikipedia: http://en.wikipedia.org/wiki/J._S._Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25388#The-Herapath-Property
 gutenberg_issued: '2008-05-08'
 gutenberg_type: Text
 identifiers:
